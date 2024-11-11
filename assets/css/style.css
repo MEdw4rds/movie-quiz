@@ -1,0 +1,8 @@
+@import url(quiz.css);
+@import url(index.css);
+
+footer{
+    background-color: brown;
+    margin-top: 20px;
+    height: 40px;
+}
